@@ -1,5 +1,5 @@
 Package.describe({
-  version: '0.4.0-2.10.5',
+  version: '0.4.0-2.10.6',
   name: 'chaser:moment-timezone',
   summary: 'Moment Timezone for Meteor',
   documentation: null
