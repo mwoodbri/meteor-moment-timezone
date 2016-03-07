@@ -11,9 +11,8 @@ Package.onUse(function(api) {
     'node_modules/moment/locale/en-gb.js',
     'node_modules/moment/locale/en-au.js',
     'node_modules/moment/locale/en-ca.js',
-    'node_modules/moment-timezone/moment-timezone.js',
-    'chaser:moment-timezone.js',
-    'tzdata.js'
+    'node_modules/moment-timezone/builds/moment-timezone-with-data-2010-2020.js',
+    'chaser:moment-timezone.js'
   ]);
   api.export('moment');
 });
